@@ -1,0 +1,8 @@
+name: 'contoh_fetch_online_data'
+
+environment:
+  sdk: '^3.8.0'
+dependencies:
+  http: ^1.4.0
+
+
